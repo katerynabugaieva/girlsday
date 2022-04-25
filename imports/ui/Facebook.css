@@ -1,0 +1,89 @@
+  .login-form-facebook {
+    height: 396px;
+    width: 396px;
+    align-items: center;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+  .inputDivFb {
+    font-size: 17px;
+    width: 364px;
+
+    margin: auto;
+    padding: 6px 0;
+    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+ .inputsFb {
+    border-radius: 6px;
+    font-family: Helvetica, Arial, sans-serif;
+    border: 1px solid #dddfe2;
+    height: 22px;
+     width: 330px;
+     padding: 14px 16px;
+     margin: auto;
+     display: inline-block;
+     font-size: 17px;
+     vertical-align: middle;
+ }
+
+ .submitButtonDivFb {
+    margin-top: 10px;
+    padding-top: 6px;
+    margin: auto;
+    padding: 6px 0;
+    width: 364px;
+    font-weight: bold;
+    justify-content: center;
+    text-align: center;
+    text-shadow: none;
+    vertical-align: middle;
+ }
+
+ #submitButtonFb {
+background-color: #1877f2;
+border: none;
+border-radius: 6px;
+font-size: 20px;
+line-height: 48px;
+padding: 0 16px;
+width: 364px;
+color: white;
+ }
+
+ .linkDivFb {  text-align: center; margin: 20px 0}
+
+ .linkFb {
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+ }
+
+ #titleFb {
+     color: #1877f2;
+     font-family: Helvetica, Arial, sans-serif;
+    padding-left: 16px;
+ }
+
+ .dividerFb { margin: 16px}
+
+ .forgotButtonFb {
+    background-color: #42b72a;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    color: white;
+    width: 300px
+ }
+ 

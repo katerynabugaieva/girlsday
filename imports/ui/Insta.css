@@ -1,0 +1,49 @@
+.login-form-insta {
+    height: 300px;
+    width: 396px;
+    align-items: center;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+.inputsI {
+    border-radius: 6px;
+    border: 1px solid grey;
+    padding: 8px;
+    font-size: 16px;
+
+    font-family: Helvetica, Arial, sans-serif;
+    width: 270px;
+    margin: auto;
+    display: inline-block;
+    vertical-align: middle;
+ }
+
+#submitButtonI {
+    background-color: dodgerblue;
+    border-radius: 6px;
+    padding: 8px;
+    width: 290px;
+    cursor: pointer;
+
+    border: none;
+    font-size: 14px;
+    color: white;
+}
+
+#vergessenI {
+    background-color: transparent;
+    color: dodgerblue;
+    cursor: pointer;
+
+    border-radius: 0px;
+    border: none;
+    padding: 5px;
+    font-size: 14px;
+    width: 300px;
+  
+}

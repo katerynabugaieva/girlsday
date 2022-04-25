@@ -1,0 +1,74 @@
+.login-form-rmv {
+    height: 300px;
+    width: 320px;
+    align-items: center;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    margin: 40px 0 0;
+    padding: 20px 0 28px;
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+  #titleRM {
+    padding-left: 16px;
+}
+
+.inputDivRM {
+    width: 300px;
+    margin: auto;
+    padding: 6px 0;
+    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.inputsR {
+    font-family: Helvetica, Arial, sans-serif;
+    width: 270px;
+    margin: auto;
+    vertical-align: middle;
+
+    font-size: 14px;
+    border-radius: 0;
+    border: 1px solid #000;
+ }
+
+ .icon {
+     height: 20px;
+     float: left;
+ }
+
+ .submitButtonDivRM {
+    margin: auto;
+    padding: 6px 0;
+    width: 300px;
+    font-weight: bold;
+    justify-content: center;
+    text-align: center;
+    text-shadow: none;
+    vertical-align: middle;
+ }
+
+#submitButtonRM {
+    color: white;
+    border: none;
+    padding: 5px;
+    font-size: 14px;
+    
+    background-color: #cc4b00;
+    border-radius: 0px;
+    width: 300px;
+}
+
+#vergessenRM {
+    background-color: #666;
+    color: white;
+
+    
+    border-radius: 0px;
+    border: none;
+    padding: 5px;
+    font-size: 14px;
+    width: 300px;
+}
